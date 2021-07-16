@@ -1,4 +1,6 @@
 # neural network tutorial
 
-I prepared this notebook as a tutorial for an article I am going to publish on medium.
-In this article, I will discuss perceptron trainning and neural networks
+This notebook contains a simple tutorial on neural networks.
+
+Contact Lohier Jean for datasets and any additional information.
+kevinlohier.kl@gmail.com
